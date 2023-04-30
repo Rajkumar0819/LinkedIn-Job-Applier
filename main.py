@@ -10,8 +10,8 @@ import time
 from selenium.webdriver.support.wait import WebDriverWait
 
 # basic details - email, password and mobile number
-email_id = "01sampletesting@gmail.com"
-pass_key = "RAJKUMAR@786"
+email_id = "your email id"
+pass_key = "your password"
 mobile_number = "1234567890"
 
 # initiating the driver
